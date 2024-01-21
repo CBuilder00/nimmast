@@ -1,0 +1,18 @@
+name: nimmsta_lib
+description: A starting point for Dart libraries or applications.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.2.5
+
+dependencies:
+  retrofit: ^4.0.3
+  json_annotation: ^4.8.1
+  nimmsta_model:
+    path: ../nimmsta_model
+  
+dev_dependencies:
+  retrofit_generator: ^8.0.6
+  build_runner: ^2.4.8
+  json_serializable: ^6.6.2
