@@ -3,7 +3,7 @@
 ## Overview
 `nimmsta_lib` is a Dart package designed for seamless interaction with RESTful APIs provided by `{JSON} Placeholder`. It simplifies common API tasks such as fetching, creating, updating, and deleting data, offering a user-friendly interface for API interactions.
 
-For a detailed documentation please check [XXXXXXXXX]
+For a detailed documentation please check [here](https://github.com/CBuilder00/nimmast/blob/master/Nimmsta%20docs.pdf).
 
 ## Getting Started
 To integrate `nimmsta_lib` into your Dart project, include it in your `pubspec.yaml`:
